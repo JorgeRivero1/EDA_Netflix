@@ -1,49 +1,53 @@
-# EDA_Netflix
+# 🎬 EDA_Netflix
 
-🎥 Proyecto EDA - Catálogo de Netflix
-📘 Introducción
+🔍 **Proyecto de Análisis Exploratorio de Datos (EDA) sobre el Catálogo de Netflix**
 
-Este proyecto tiene como objetivo explorar el catálogo de contenidos de Netflix a través de un análisis exploratorio de datos (EDA). Utilizando Python y herramientas de visualización, se analizan aspectos clave del contenido disponible en la plataforma: qué tipos de contenido predominan, de qué países provienen, qué géneros son más comunes, cómo han evolucionado los lanzamientos a lo largo del tiempo y qué clasificaciones por edad son más frecuentes.
+---
 
-🧰 Tecnologías y Herramientas
+## 📘 Introducción
 
-· Python
+Este proyecto tiene como objetivo explorar el catálogo de contenidos de **Netflix** mediante un análisis exploratorio de datos (EDA).  
+Utilizando **Python** y herramientas de visualización, se analizan aspectos clave del contenido disponible en la plataforma:
 
-· Pandas y NumPy para la manipulación de datos
+- 📺 ¿Qué tipos de contenido predominan?
+- 🌍 ¿De qué países provienen?
+- 🎭 ¿Qué géneros son más comunes?
+- 📅 ¿Cómo han evolucionado los lanzamientos a lo largo del tiempo?
+- 👶 ¿Qué clasificaciones por edad son más frecuentes?
 
-· Matplotlib, Seaborn y Plotly para visualización
+---
 
-· API de Kaggle para descarga automática del dataset
+## 🧰 Tecnologías y Herramientas
 
-📦 Dataset Utilizado
+- 🐍 **Python**
+- 🧮 **Pandas** y **NumPy** para manipulación de datos
+- 📊 **Matplotlib**, **Seaborn** y **Plotly** para visualizaciones interactivas y estáticas
+- 📦 **API de Kaggle** para la descarga automatizada del dataset
 
-El conjunto de datos contiene información detallada de los títulos de Netflix, incluyendo:
+---
 
-· Tipo de contenido (película o serie)
+## 📦 Dataset Utilizado
 
-· Título
+El conjunto de datos contiene información detallada sobre los títulos disponibles en Netflix:
 
-·  Director y reparto
+- 🎞️ Tipo de contenido: *Película* o *Serie*
+- 📝 Título
+- 🎬 Director y reparto
+- 🌐 País de origen
+- 📆 Fecha de incorporación a Netflix
+- 🗓️ Año de lanzamiento
+- 🧒 Clasificación por edades
+- ⏱️ Duración
+- 🏷️ Géneros / Categorías
 
-·  País de origen
+---
 
-·  Fecha de incorporación a Netflix
+## 🔎 ¿Qué se ha hecho?
 
-·  Año de lanzamiento
+- 🧹 **Limpieza de datos**: tratamiento de valores nulos, eliminación de duplicados y transformación de columnas clave.
+- 🛠️ **Transformación**: extracción y procesamiento de variables como el año, duración y géneros.
+- 📈 **Visualización**: creación de gráficos variados para responder preguntas clave sobre el contenido.
+- 🧠 **Análisis descriptivo**: detección de tendencias, distribuciones y patrones interesantes dentro del catálogo.
 
-·  Clasificación por edades
+---
 
-·  Duración
-
-·  Géneros (listados como categorías)
-
-
-🔎 ¿Qué se ha hecho?
-
-   Limpieza de datos: se trataron valores faltantes, se eliminaron duplicados y se transformaron columnas clave.
-
-   Transformación: se extrajeron y procesaron columnas como el año, la duración y los géneros.
-
-   Visualización: se crearon múltiples gráficos para responder preguntas sobre el contenido.
-
-   Análisis descriptivo: se observaron tendencias, distribuciones y patrones interesantes dentro del catálogo.
