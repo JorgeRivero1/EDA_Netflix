@@ -1,3 +1,4 @@
+🏷️[Abrir Proyecto](https://github.com/JorgeRivero1/EDA_Netflix/blob/main/EDA_NETFLIX.ipynb)
 # 🎬 EDA_Netflix
 
 🔍 **Proyecto de Análisis Exploratorio de Datos (EDA) sobre el Catálogo de Netflix**
